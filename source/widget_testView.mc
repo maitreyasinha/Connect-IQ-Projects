@@ -1,9 +1,10 @@
 using Toybox.WatchUi;
 
 var speed = 0;
+var speedText = "0";
 
 function updateSpeed(spd){
-	speed = spd ;
+	speedText = spd ;
 	WatchUi.requestUpdate();
 }
 
@@ -34,7 +35,7 @@ class widget_testView extends WatchUi.View {
         dc.clear();
         dc.drawText( dc.getWidth()/2, dc.getHeight()/4 , Graphics.FONT_LARGE, 
         					"FAN SPEED", Graphics.TEXT_JUSTIFY_CENTER );
-        dc.drawText( dc.getWidth()/2, dc.getHeight()/2 , Graphics.FONT_LARGE, speed, Graphics.TEXT_JUSTIFY_CENTER );
+        dc.drawText( dc.getWidth()/2, dc.getHeight()/2 , Graphics.FONT_LARGE, speedText, Graphics.TEXT_JUSTIFY_CENTER );
     }
 
     // Called when this View is removed from the screen. Save the

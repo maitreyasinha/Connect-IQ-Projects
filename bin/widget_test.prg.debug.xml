@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
     <pcToLineNum>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="2" lineNum="5" pc="268435456" symbol="updateSpeed"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="2" lineNum="6" pc="268435468" symbol="updateSpeed"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="2" lineNum="7" pc="268435478" symbol="updateSpeed"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="4" lineNum="12" pc="268435495" symbol="initialize"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="4" lineNum="13" pc="268435499" symbol="initialize"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="5" lineNum="17" pc="268435518" symbol="onLayout"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="6" lineNum="24" pc="268435523" symbol="onShow"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="6" lineNum="25" pc="268435527" symbol="onShow"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="30" pc="268435551" symbol="onUpdate"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="32" pc="268435555" symbol="onUpdate"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="33" pc="268435578" symbol="onUpdate"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="34" pc="268435618" symbol="onUpdate"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="35" pc="268435630" symbol="onUpdate"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="37" pc="268435709" symbol="onUpdate"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="8" lineNum="43" pc="268435792" symbol="onHide"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="8" lineNum="44" pc="268435796" symbol="onHide"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="2" lineNum="6" pc="268435456" symbol="updateSpeed"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="2" lineNum="7" pc="268435468" symbol="updateSpeed"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="2" lineNum="8" pc="268435478" symbol="updateSpeed"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="4" lineNum="13" pc="268435495" symbol="initialize"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="4" lineNum="14" pc="268435499" symbol="initialize"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="5" lineNum="18" pc="268435518" symbol="onLayout"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="6" lineNum="25" pc="268435523" symbol="onShow"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="6" lineNum="26" pc="268435527" symbol="onShow"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="31" pc="268435551" symbol="onUpdate"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="33" pc="268435555" symbol="onUpdate"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="34" pc="268435578" symbol="onUpdate"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="35" pc="268435618" symbol="onUpdate"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="36" pc="268435630" symbol="onUpdate"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="7" lineNum="38" pc="268435709" symbol="onUpdate"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="8" lineNum="44" pc="268435792" symbol="onHide"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testView.mc" id="8" lineNum="45" pc="268435796" symbol="onHide"/>
         <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/NumUpdateDelegate.mc" id="10" lineNum="5" pc="268435820" symbol="initialize"/>
         <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/NumUpdateDelegate.mc" id="10" lineNum="6" pc="268435824" symbol="initialize"/>
         <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/NumUpdateDelegate.mc" id="11" lineNum="9" pc="268435843" symbol="onMenu"/>
@@ -29,73 +29,67 @@
         <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testApp.mc" id="15" lineNum="14" pc="268435986" symbol="onStop"/>
         <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testApp.mc" id="16" lineNum="18" pc="268435991" symbol="getInitialView"/>
         <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/widget_testApp.mc" id="16" lineNum="19" pc="268435995" symbol="getInitialView"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="18" lineNum="7" pc="268436063" symbol="initialize"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="18" lineNum="8" pc="268436067" symbol="initialize"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="19" lineNum="11" pc="268436086" symbol="onMenu"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="19" lineNum="12" pc="268436090" symbol="onMenu"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="15" pc="268436094" symbol="responseCallback"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="16" pc="268436098" symbol="responseCallback"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="17" pc="268436133" symbol="responseCallback"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="18" pc="268436162" symbol="responseCallback"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="20" pc="268436180" symbol="responseCallback"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="21" pc="268436200" symbol="responseCallback"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="22" pc="268436210" symbol="responseCallback"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="21" lineNum="25" pc="268436231" symbol="callWebService"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="21" lineNum="26" pc="268436235" symbol="callWebService"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="21" lineNum="28" pc="268436242" symbol="callWebService"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="21" lineNum="33" pc="268436289" symbol="callWebService"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="21" lineNum="34" pc="268436296" symbol="callWebService"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="37" pc="268436343" symbol="onMenuItem"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="39" pc="268436347" symbol="onMenuItem"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="40" pc="268436373" symbol="onMenuItem"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="41" pc="268436385" symbol="onMenuItem"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="42" pc="268436402" symbol="onMenuItem"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="43" pc="268436425" symbol="onMenuItem"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="23" lineNum="47" pc="268436441" symbol="onBack"/>
-        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="23" lineNum="48" pc="268436445" symbol="onBack"/>
-        <entry filename="Rez" id="29" lineNum="15" pc="268436469" symbol="MainLayout"/>
-        <entry filename="Rez" id="29" lineNum="17" pc="268436481" symbol="MainLayout"/>
-        <entry filename="Rez" id="29" lineNum="19" pc="268436663" symbol="MainLayout"/>
-        <entry filename="Rez" id="32" lineNum="32" pc="268436681" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="33" pc="268436685" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="34" pc="268436703" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="34" pc="268436760" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="35" pc="268436816" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="36" pc="268436872" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="37" pc="268436928" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="38" pc="268436984" symbol="initialize"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="18" lineNum="13" pc="268436063" symbol="initialize"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="18" lineNum="14" pc="268436067" symbol="initialize"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="19" lineNum="17" pc="268436086" symbol="onMenu"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="19" lineNum="18" pc="268436090" symbol="onMenu"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="21" pc="268436094" symbol="responseCallback"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="22" pc="268436098" symbol="responseCallback"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="22" pc="268436103" symbol="responseCallback"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="20" lineNum="23" pc="268436134" symbol="responseCallback"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="21" lineNum="26" pc="268436155" symbol="callWebService"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="21" lineNum="27" pc="268436159" symbol="callWebService"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="21" lineNum="28" pc="268436176" symbol="callWebService"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="31" pc="268436231" symbol="onMenuItem"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="32" pc="268436235" symbol="onMenuItem"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="33" pc="268436273" symbol="onMenuItem"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="34" pc="268436298" symbol="onMenuItem"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="22" lineNum="37" pc="268436313" symbol="onMenuItem"/>
+        <entry filename="/Users/maitreyasinha/Workspace/ConnectIQ/Projects/widget_test/source/SpeedSelectDelegate.mc" id="23" lineNum="41" pc="268436334" symbol="onBack"/>
+        <entry filename="Rez" id="29" lineNum="15" pc="268436339" symbol="MainLayout"/>
+        <entry filename="Rez" id="29" lineNum="17" pc="268436351" symbol="MainLayout"/>
+        <entry filename="Rez" id="29" lineNum="19" pc="268436533" symbol="MainLayout"/>
+        <entry filename="Rez" id="32" lineNum="32" pc="268436551" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="33" pc="268436555" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="34" pc="268436573" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="34" pc="268436630" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="35" pc="268436686" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="36" pc="268436742" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="37" pc="268436798" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="38" pc="268436854" symbol="initialize"/>
     </pcToLineNum>
     <symbolTable>
-        <entry id="32" symbol="s_5"/>
-        <entry id="31" symbol="s_4"/>
-        <entry id="30" symbol="s_3"/>
-        <entry id="29" symbol="s_2"/>
-        <entry id="28" symbol="s_1"/>
-        <entry field="true" id="24" symbol="MainMenuTitle"/>
-        <entry field="true" id="23" symbol="Speed5"/>
-        <entry field="true" id="25" symbol="Speed4"/>
-        <entry field="true" id="26" symbol="Speed3"/>
-        <entry field="true" id="21" symbol="Speed2"/>
-        <entry field="true" id="22" symbol="Speed1"/>
+        <entry id="35" symbol="s_5"/>
+        <entry id="34" symbol="s_4"/>
+        <entry id="33" symbol="s_3"/>
+        <entry id="32" symbol="s_2"/>
+        <entry id="31" symbol="s_1"/>
+        <entry field="true" id="27" symbol="MainMenuTitle"/>
+        <entry field="true" id="26" symbol="Speed5"/>
+        <entry field="true" id="28" symbol="Speed4"/>
+        <entry field="true" id="29" symbol="Speed3"/>
+        <entry field="true" id="24" symbol="Speed2"/>
+        <entry field="true" id="25" symbol="Speed1"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389349" symbol="justification"/>
         <entry id="8388637" module="true" symbol="Communications"/>
-        <entry id="13" object="true" symbol="SpeedSelectDelegate"/>
+        <entry id="14" object="true" symbol="SpeedSelectDelegate"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="15" symbol="url"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
-        <entry id="12" object="true" symbol="widget_testApp"/>
+        <entry id="13" object="true" symbol="widget_testApp"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="20" method="true" symbol="MainLayout"/>
+        <entry id="23" method="true" symbol="MainLayout"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry id="14" method="true" symbol="responseCallback"/>
-        <entry field="true" id="27" symbol="AppName"/>
-        <entry id="19" object="true" symbol="SpeedSelect"/>
+        <entry id="17" method="true" symbol="responseCallback"/>
+        <entry field="true" id="30" symbol="AppName"/>
+        <entry id="22" object="true" symbol="SpeedSelect"/>
         <entry id="8389080" method="true" symbol="onMenu"/>
-        <entry id="10" object="true" symbol="widget_testView"/>
-        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="11" object="true" symbol="widget_testView"/>
+        <entry field="true" id="21" symbol="LauncherIcon"/>
         <entry id="8389081" method="true" symbol="onBack"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389281" method="true" symbol="onStop"/>
@@ -103,20 +97,22 @@
         <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry id="15" method="true" symbol="callWebService"/>
+        <entry id="18" method="true" symbol="callWebService"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="8389348" symbol="font"/>
         <entry id="8389347" symbol="color"/>
         <entry field="true" id="8388958" symbol="speed"/>
         <entry id="8389109" method="true" symbol="onMenuItem"/>
-        <entry id="16" module="true" symbol="Layouts"/>
+        <entry field="true" id="16" symbol="params"/>
+        <entry id="19" module="true" symbol="Layouts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry id="8389346" symbol="text"/>
-        <entry id="11" object="true" symbol="NumUpdateDelegate"/>
-        <entry id="17" module="true" symbol="Menus"/>
-        <entry id="9" method="true" symbol="updateSpeed"/>
+        <entry id="12" object="true" symbol="NumUpdateDelegate"/>
+        <entry id="20" module="true" symbol="Menus"/>
+        <entry id="10" method="true" symbol="updateSpeed"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="9" symbol="speedText"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
@@ -125,31 +121,27 @@
         <entry endPc="268435792" name="dc" stackId="1" startPc="268435551"/>
         <entry endPc="268435986" name="state" stackId="1" startPc="268435981"/>
         <entry endPc="268435991" name="state" stackId="1" startPc="268435986"/>
-        <entry endPc="268436230" name="location" stackId="3" startPc="268436098"/>
-        <entry endPc="268436231" name="responseCode" stackId="1" startPc="268436094"/>
-        <entry endPc="268436231" name="data" stackId="2" startPc="268436094"/>
-        <entry endPc="268436342" name="url" stackId="1" startPc="268436235"/>
-        <entry endPc="268436342" name="request_code" stackId="3" startPc="268436235"/>
-        <entry endPc="268436342" name="params" stackId="2" startPc="268436235"/>
-        <entry endPc="268436441" name="item" stackId="1" startPc="268436343"/>
-        <entry endPc="268436680" name="rez_cmp_local_text_1079395278" stackId="2" startPc="268436481"/>
-        <entry endPc="268436681" name="dc" stackId="1" startPc="268436469"/>
+        <entry endPc="268436155" name="responseCode" stackId="1" startPc="268436094"/>
+        <entry endPc="268436155" name="data" stackId="2" startPc="268436094"/>
+        <entry endPc="268436334" name="item" stackId="1" startPc="268436231"/>
+        <entry endPc="268436550" name="rez_cmp_local_text_2721685791" stackId="2" startPc="268436351"/>
+        <entry endPc="268436551" name="dc" stackId="1" startPc="268436339"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
         <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="214" parentId="globals" symbolId="SpeedSelectDelegate" type="class"/>
-        <dataEntry offset="301" parentId="globals" symbolId="widget_testApp" type="class"/>
-        <dataEntry offset="372" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="451" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="490" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="529" parentId="Menus" symbolId="SpeedSelect" type="class"/>
-        <dataEntry offset="576" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="607" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="646" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="677" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="764" parentId="globals" symbolId="widget_testView" type="class"/>
-        <dataEntry offset="843" parentId="globals" symbolId="NumUpdateDelegate" type="class"/>
+        <dataEntry offset="222" parentId="globals" symbolId="SpeedSelectDelegate" type="class"/>
+        <dataEntry offset="325" parentId="globals" symbolId="widget_testApp" type="class"/>
+        <dataEntry offset="396" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="475" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="514" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="553" parentId="Menus" symbolId="SpeedSelect" type="class"/>
+        <dataEntry offset="600" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="631" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="670" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="701" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="788" parentId="globals" symbolId="widget_testView" type="class"/>
+        <dataEntry offset="867" parentId="globals" symbolId="NumUpdateDelegate" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="updateSpeed">
