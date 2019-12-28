@@ -1,0 +1,7 @@
+<menu id="SpeedSelect" title="@Strings.MainMenuTitle">
+    <menu-item id="s_1">@Strings.Speed1</menu-item>
+    <menu-item id="s_2">@Strings.Speed2</menu-item>
+	<menu-item id="s_3">@Strings.Speed3</menu-item>
+	<menu-item id="s_4">@Strings.Speed4</menu-item>
+	<menu-item id="s_5">@Strings.Speed5</menu-item>
+</menu>
